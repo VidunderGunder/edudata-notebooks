@@ -1,0 +1,11 @@
+{
+  "title": "Havtemperatur 1982-2022",
+  "description": "Gjennomsnittlig havoverflatetemperatur for hele verden for alle datoer fra 1982 - 2022",
+  "sources": [
+    {
+      "title": "Sea surface temperature daily data from 1981 to present derived from satellite observations",
+      "url": "https://cds.climate.copernicus.eu/cdsapp#!/dataset/satellite-sea-surface-temperature?tab=form",
+      "retrieved": "26.05.22"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Kloroplast genom, Arabidopsis Thaliana",
+  "description": "Hele DNA sekvensen til kloroplast-genomet i Arabidopis Thaliana (modell-organisme nr.1).",
+  "sources": [
+    {
+      "title": "NCBI",
+      "url": "https://www.ncbi.nlm.nih.gov/nuccore/NC_003070.9?report=fasta&from=10474656&to=10475969&strand=true",
+      "retrieved": "08.09.2022"
+    }
+  ]
+}
