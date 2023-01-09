@@ -21,7 +21,7 @@ Notebooks to publish to [EduData.no](https://edudata.no)
 
 Look at the published notebooks for inspiration.
 
-#### Follow Markdown conventions
+### Follow Markdown conventions
 
 See GitHub's [Mastering Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) guide.
 
@@ -54,16 +54,14 @@ Paragraph with a **bold <a href="https://edudata.no">link</a>**.
 
 ```
 
-
-
-#### Folder name and `.ipynb` file name must match
+### Folder name and `.ipynb` file name must match
 
 - `📁 et-solid-opplegg`
   - `📄 et-solid-opplegg.ipynb` ✅😄
 - `📁 et-solid-opplegg`
   - `📄 Et uheldig eksempel.ipynb` ❌💀
 
-#### Use copyright free media
+### Use copyright free media
 
 - [Stable Diffusion](https://huggingface.co/spaces/stabilityai/stable-diffusion)
   - Generate free AI images
@@ -73,7 +71,7 @@ Paragraph with a **bold <a href="https://edudata.no">link</a>**.
   - Royalty free images and videos
 - ...or create your own 😊
 
-#### Add a `metadata.json` file to each notebook-folder
+### Add a `metadata.json` file to each notebook-folder
 
 - `📁 eksempel`
   - `📄 eksempel.ipynb`  
@@ -90,13 +88,13 @@ Paragraph with a **bold <a href="https://edudata.no">link</a>**.
       - Available colors: https://mantine.dev/theming/colors/#default-colors  
       - Examples: `pink`, `green.0`, `blue.9`, `gray`, `cyan.0`
 
-#### Use lowercase file extensions
+### Use lowercase file extensions
 
 - `cat-with-a-hat.png` ✅😄
 - `cat-with-a-hat.PNG` ❌💀
 - It's a limitation of GitHub, and it gets messy if we don't.
 
-#### Avoid special characters in filenames
+### Avoid special characters in filenames
 
 - `æøå er  $ærdeles norske #symboler?!.png` ❌💀
 - `aeooaa-er-saerdeles-norske-symboler.png` ✅🙂
