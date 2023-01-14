@@ -7,15 +7,15 @@ Feel free to contribute by contacting [Morten Munthe](mailto:morten.munthe@nmbu.
 ## Folders explained
 
 - `📁 .github`  
-Ignore this. It does magic.
+  Ignore this. It does magic.
 - `📁 data`  
-Temporary data storage solution  
-_Note: This folder will be published to [EduData.no](https://edudata.no)_
+  Temporary data storage solution  
+  _Note: This folder will be published to [EduData.no](https://edudata.no)_
 - `📁 private`  
-Hidden notebooks for internal use or drafts  
-_Note: The code is still publically available on GitHub, but it's not published to [EduData.no](https://edudata.no)_
+  Hidden notebooks for internal use or drafts  
+  _Note: The code is still publically available on GitHub, but it's not published to [EduData.no](https://edudata.no)_
 - `📁 public`  
-Notebooks to publish to [EduData.no](https://edudata.no)
+  Notebooks to publish to [EduData.no](https://edudata.no)
 
 ## Guidelines
 
@@ -27,7 +27,7 @@ See GitHub's [Mastering Markdown](https://docs.github.com/en/get-started/writing
 
 If you must use HTML, keep it simple and standalone from Markdown elements, e.g.:
 
-This is perfect:  ✅😄
+This is perfect: ✅😄
 
 ```markdown
 # Heading
@@ -39,7 +39,7 @@ Paragraph with a [link](https://edudata.no).
 </div>
 ```
 
-This should be avoided:  ❌😢
+This should be avoided: ❌😢
 
 ```markdown
 # Head<span style="color: 'red'">in</span>g
@@ -47,11 +47,10 @@ This should be avoided:  ❌😢
 Paragraph with a **bold <a href="https://edudata.no">link</a>**.
 
 > **Note:** This is a blockquote
-> 
+>
 > <div>
 >  <p>Some HTML</p>
 > </div>
-
 ```
 
 ### Folder name and `.ipynb` file name must match
@@ -74,8 +73,8 @@ Paragraph with a **bold <a href="https://edudata.no">link</a>**.
 ### Add a `metadata.json` file to each notebook-folder
 
 - `📁 eksempel`
-  - `📄 eksempel.ipynb`  
-  - `📄 metadata.json` ✅😄  
+  - `📄 eksempel.ipynb`
+  - `📄 metadata.json` ✅😄
     ```json
     {
       "title": "Eksempel",
@@ -84,9 +83,9 @@ Paragraph with a **bold <a href="https://edudata.no">link</a>**.
       "image": "https://pixabay.com/photos/cat-pet-licking-animal-tabby-cat-323262/"
     }
     ```
-    - Colors for tags (optional):  
-      - Available colors: https://mantine.dev/theming/colors/#default-colors  
-      - Examples: `pink`, `green.0`, `blue.9`, `gray`, `cyan.0`
+    - Colors for tags (optional):
+      - Available colors: https://mantine.dev/theming/colors/#default-colors
+      - Examples: `pink`, `green`, `blue`, `gray`, `cyan`
 
 ### Use lowercase file extensions
 
