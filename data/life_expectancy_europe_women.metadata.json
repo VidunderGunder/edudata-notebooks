@@ -1,6 +1,6 @@
 {
   "title": "Forventet levealder for kvinner i Europa",
-  "description": "Forventet levealder for menn i Europeiske land. Datasettet er formatert fra original kilde for å passe eduData sitt standardformat. Enkelte kolonner og rader er fjernet. Verdier er intakte. For detaljert informasjon, se: https://ec.europa.eu/eurostat/cache/metadata/en/demo_mor_esms.htm",
+  "description": "Forventet levealder for kvinner i Europeiske land fra 2012-2021. Datasettet er formatert fra original kilde for å passe eduData sitt standardformat. Enkelte kolonner og rader er fjernet. Verdier er intakte. For detaljert informasjon, se: https://ec.europa.eu/eurostat/cache/metadata/en/demo_mor_esms.htm",
   "license": 
   "sources": [
     {
