@@ -1,15 +1,12 @@
 {
   "title": "Avlingsavkastning for 17 matplanter på verdensbasis",
-  "description": "Avlingsutbytte i tonn per hektar for de 17 mest dyrkede plantene i verden fra 1961 til 2018: [barley, cassava, cotton, groundnut, maize, millet, oilpalm, potato, rapeseed, rice, rye, sorghum, soybean, sugarbeet, sugarcane, sunflower, wheat]
-
-"Datasettet inneholder data for 'attainable yield, 'yield gap' og 'yield' for plantene. 'attainable yield' er et estimat på hvor stort avlingsutbytte det er mulig å oppnå, basert på målinger fra områder med liknende klima og tilgjengelig teknologi (eksempelvis gjødsel og vanning) i år 2000. Derfor er estimatene for 'attainable yield' før år 2000 sannsynligvis litt for høye, og etter år 2000 litt for lave, i dette datasettet."
-"'yield gap' måler forskjellen mellom reell avlingsavkastning og estimert (attainable) avkastning. 'yield' beskriver reell avkastning og er kalkulert ved formelen: 'attainable_yield' - 'yield_gap'. ",
+  "description": "Avlingsutbytte i tonn per hektar for de 17 mest dyrkede plantene i verden fra 1961 til 2018: [barley, cassava, cotton, groundnut, maize, millet, oilpalm, potato, rapeseed, rice, rye, sorghum, soybean, sugarbeet, sugarcane, sunflower, wheat]\n\nDatasettet inneholder data for 'attainable yield, 'yield gap' og 'yield' for plantene. 'attainable yield' er et estimat på hvor stort avlingsutbytte det er mulig å oppnå, basert på målinger fra områder med liknende klima og tilgjengelig teknologi (eksempelvis gjødsel og vanning) i år 2000. Derfor er estimatene for 'attainable yield' før år 2000 sannsynligvis litt for høye, og etter år 2000 litt for lave, i dette datasettet.\n\n'yield gap' måler forskjellen mellom reell avlingsavkastning og estimert (attainable) avkastning. 'yield' beskriver reell avkastning og er kalkulert ved formelen: 'attainable_yield' - 'yield_gap'. ",
   "sources": [
     {
       "title": "Our World in Data",
       "url": "https://ourworldindata.org/crop-yields",
-      "retrieved": "08.09.2022"
-      "reference": "Hannah Ritchie, Max Roser and Pablo Rosado (2022) - 'Crop Yields'. Published online at OurWorldInData.org. Retrieved from: 'https://ourworldindata.org/crop-yields' [Online Resource]"
+      "retrieved": "08.09.2022",
+      "reference": "Hannah Ritchie, Max Roser and Pablo Rosado (2022) - 'Crop Yields'. Published online at OurWorldInData.org. Retrieved from: 'https://ourworldindata.org/crop-yields' [Online Resource]",
       "copyright": "Copyright: All visualizations, data, and code produced by Our World in Data are completely open access under the Creative Commons BY license, https://creativecommons.org/licenses/by-nc/4.0/. You have the permission to use, distribute, and reproduce these in any medium, provided the source and authors are credited."
     }
   ]
