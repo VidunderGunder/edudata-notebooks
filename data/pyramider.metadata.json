@@ -1,0 +1,13 @@
+{
+  "title": "Pyramide data",
+  "description": "En kombinert liste over 62 gamle egyptiske pyramider fra 3. dynasti. Liste over eldgamle egyptiske pyramider som blant annet inkluderer pyramidens eier (Farao eller hans kone), dynasti, plassering (sted, breddegrad, lengdegrad), originale parametere (base og høyde i meter) og hovedmateriale.",
+  "sources": [
+    {
+      "title": "Pyramids of Ancient Egypt",
+      "url": "https://www.kaggle.com/datasets/lsind18/egyptianpyramids",
+      "retrieved": "24.02.2023",
+      "reference": "Datasettet er samlet sammen av Daria Chemkaeva, som publiserte datasettet på kaggle.no. Hun samlet data fra flere kilder, blant annet data lagret i Lepsius liste over pyramider, boken ‘The Complete Pyramids: Solving the Ancient Mysteries’ av Mark Lehner og engelske, franske, tyske og russiske artikler om pyramider.",
+      "datasett lisens": "Datasettet kan kopieres og re-distribueres på en hvilken som helst plattform og format, samt endres, så lenge original forfatter/utgiver krediteres, inkludert link og opplysning om eventuelle endringer. Datasettet kan ikke brukes til kommersielle formål. Datasettet (samt endrede versjoner) kan kun deles videre under samme lisens. https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    }
+  ]
+}
