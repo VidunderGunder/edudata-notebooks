@@ -1,0 +1,12 @@
+{
+  "title": "Planetary fact sheet",
+  "description": "Opplysninger om planeter (+ Månen og Pluto) i vårt solsystem, eksempelvis deres masse, tetthet og avstand fra solen..",
+  "sources": [
+    {
+      "title": "NASA",
+      "url": "https://www.ncbi.nlm.nih.gov/nuccore/NC_003070.9?report=fasta&from=10474656&to=10475969&strand=truehttps://nssdc.gsfc.nasa.gov/planetary/factsheet/",
+      "retrieved": "19.07.23",
+      "Author/Curator": "Dr. David R. Williams, dave.williams@nasa.gov, NSSDCA, Mail Code 690.1 NASA Goddard Space Flight Center, Greenbelt, MD 20771, +1-301-286-1258"
+    }
+  ]
+}
