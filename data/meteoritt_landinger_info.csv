@@ -1,0 +1,36 @@
+Meteoritt landinger - tillegsinformasjon 
+
+Kolonnebeskrivelser
+
+Navn: Navnet på meteoritten
+id: unik identifikasjonsnummer for meteoritten
+-- valid: en typisk meteoritt
+-- relict: en meteoritt som tydelig har blitt påvirket av jordens klima
+class: Grov klassifisering. Se "subclass" for mer detaljert klassifisering.
+
+	Forkortelser: 
+
+	CC: Carbonaceous Chondrite
+	OC: Ordinary Chondrite
+	M: Martian
+	AA: Asteroidal Achondrites
+	PA: Primitive Achondrites
+	L: Lunar
+	EC: Enstatite Chondrite
+	AOC: Other Chondrite Groups(not in one of the major classes)
+	P: Pallasites
+	MG: Mesosiderite Group
+	MIM: Magmatic Iron Meteorite Groups
+	NMIM: Non-magmatic or Primitive Iron Meteorite Groups
+	UN: Not Enough Information (Ungrouped or Unknown)
+
+mass: masse i gram
+fall: om meteoritten ble observert fall eller ikke 
+-- Fell: fallet ble observert
+-- Found: fallet er ikke observert
+year: året meteoritten falt ELLER året den ble funnet (basert på verdien i fall - kolonnen)
+lat: breddegrad den ble funnet
+long: lengdegrad den ble funnet
+subclass: meteorittens klassifisering (basert på fysiske og kjemiske egenskaper, samt. andre karakteristikker)
+
+OBS: lokasjon er noen ganger estimerte og ikke nødvedigvis helt nøyaktig.
